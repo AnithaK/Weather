@@ -1,8 +1,6 @@
 package com.weather.utilities;
 
-/**
- * Created by anitha on 2015-02-04.
- */
+
 public class Weather
 {
     private String id;

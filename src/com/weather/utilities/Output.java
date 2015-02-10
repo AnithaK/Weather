@@ -2,13 +2,10 @@ package com.weather.utilities;
 
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 
-/**
- * Created by anitha on 2015-02-04.
- */
+
 @JsonIgnoreProperties(ignoreUnknown = true)
-/**
- * Created by anitha on 2015-02-04.
- */
+
+
     public class Output
     {
         private String id;
