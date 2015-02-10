@@ -1,0 +1,61 @@
+{
+
+  "coord":
+
+  {
+
+    "lon": -0.13,
+    "lat": 51.51
+
+  },
+  "sys":
+  {
+
+    "type": 3,
+    "id": 60992,
+    "message": 0.0226,
+    "country": "GB",
+    "sunrise": 1423552978,
+    "sunset": 1423587987
+
+  },
+  "weather":
+  [
+
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+
+  ],
+  "base": "cmc stations",
+  "main":
+  {
+
+    "temp": 279.75,
+    "humidity": 84,
+    "pressure": 1033.8,
+    "temp_min": 279.75,
+    "temp_max": 279.75
+
+  },
+  "wind":
+  {
+
+    "speed": 1.72,
+    "deg": 85.001
+
+  },
+  "clouds":
+
+  {
+    "all": 80
+  },
+  "dt": 1423570495,
+  "id": 2643743,
+  "name": "London",
+  "cod": 200
+
+}

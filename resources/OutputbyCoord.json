@@ -1,0 +1,61 @@
+{
+
+  "coord":
+
+  {
+
+    "lon": 139,
+    "lat": 35
+
+  },
+  "sys":
+  {
+
+    "message": 0.0271,
+    "country": "JP",
+    "sunrise": 1423517702,
+    "sunset": 1423556482
+
+  },
+  "weather":
+  [
+
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "Sky is Clear",
+      "icon": "01n"
+    }
+
+  ],
+  "base": "cmc stations",
+  "main":
+  {
+
+    "temp": 268.971,
+    "temp_min": 268.971,
+    "temp_max": 268.971,
+    "pressure": 979.79,
+    "sea_level": 1025.13,
+    "grnd_level": 979.79,
+    "humidity": 94
+
+  },
+  "wind":
+  {
+
+    "speed": 1.37,
+    "deg": 217.501
+
+  },
+  "clouds":
+
+  {
+    "all": 0
+  },
+  "dt": 1423573248,
+  "id": 1851632,
+  "name": "Shuzenji",
+  "cod": 200
+
+}

@@ -1,0 +1,36 @@
+{
+  "params": [
+    {
+      "name": "London,uk",
+      "id": 2172797,
+      "coord": {
+        "lat": 35,
+        "lon": 139
+      }
+    },
+    {
+      "name": "Stockholm1,uk",
+      "id": 2172797,
+      "coord": {
+        "lat": 35,
+        "lon": 139
+      }
+    },
+    {
+      "name": "London,uk",
+      "id": 2172797000000,
+      "coord": {
+        "lat": 35,
+        "lon": 139
+      }
+    },
+    {
+      "name": "London,uk",
+      "id": 2172797,
+      "coord": {
+        "lat": 350000000000,
+        "lon": 139
+      }
+    }
+  ]
+}
